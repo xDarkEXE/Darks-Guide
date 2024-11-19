@@ -9,7 +9,7 @@
     <div class="">
         <Card.Root class="xl:w-[480px] grow flex flex-col"> <!-- Main Command Card -->
             <Card.Header>
-                <Card.Title>Minecraft Wiki</Card.Title>
+                <Card.Title>What is Minecraft?</Card.Title>
                 <Card.Description></Card.Description>
             </Card.Header>
             <Card.Content class="grow">
