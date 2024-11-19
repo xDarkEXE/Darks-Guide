@@ -18,17 +18,17 @@
 	<nav class="w-full p-5 justify-start items-start gap-[100px] inline-flex">
 		<div class="justify-start items-center gap-[25px] inline-flex grow">
 			<h1 class="scroll-m-20 text-2xl font-semibold tracking-tight xl:text-4xl">
-				Dark's GameWiki
+				Dark's Console Commands
 			</h1>
 			<div class="p-2.5 justify-start items-center gap-1 inline-flex">
 				<Button href="/" class="leading-7">
 					Home
 				</Button>
-				<Button href="/Left4DeadWiki" class="ms-2">
-					Left 4 Dead Wiki
+				<Button href="/Left4DeadCommands" class="ms-2">
+					Left 4 Dead Commands
 				</Button>
-				<Button href="/MinecraftWiki" class="ms-2">
-					Minecraft Wiki
+				<Button href="/MinecraftCommands" class="ms-2">
+					Minecraft Commands
 				</Button>
 			</div>
 		</div>

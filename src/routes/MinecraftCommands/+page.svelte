@@ -7,7 +7,7 @@
 
 <section class="flex items-center justify-center h-screen">
     <div class="">
-        <Card.Root class="xl:w-[480px] grow flex flex-col"> <!-- Main Wiki Card -->
+        <Card.Root class="xl:w-[480px] grow flex flex-col"> <!-- Main Command Card -->
             <Card.Header>
                 <Card.Title>Minecraft Wiki</Card.Title>
                 <Card.Description></Card.Description>
