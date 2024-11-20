@@ -60,7 +60,8 @@
                     <b class="text-2xl">Contents</b>
                     <br>
                     <a class="text-green-700" href="/Left4DeadCommands/Cheats">1. Cheats</a><br>
-                    <a class="text-green-700" href="/Left4DeadCommands/Cheats/CheatHelp">2. Annotated list of commands</a>
+                    <a class="text-green-700" href="/Left4DeadCommands/Cheats/CheatHelp">2. Annotated list of commands</a><br>
+                    <a class="text-green-700 ms-2" href="/Left4DeadCommands/Cheats/Noclip">2.1 Noclip</a>
                 </p>
             </Card.Content>
             <Card.Footer>
