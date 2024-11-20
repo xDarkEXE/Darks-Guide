@@ -1,4 +1,4 @@
-# Dark's Game Wiki
+# Dark's GameCommands Wiki
 
 Welcome to my gameCommands wiki, this will be filled with a lot of games that have console commands for the player to access
 
