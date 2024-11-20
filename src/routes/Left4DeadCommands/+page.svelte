@@ -10,7 +10,7 @@
         <Card.Root class="xl:w-[542px] grow flex flex-col"> <!-- Game Info Card -->
             <Card.Header>
                 <Card.Title>What is Left 4 Dead?</Card.Title>
-                <Card.Description>October 24, 2024</Card.Description>
+                <Card.Description>October 24, 2004</Card.Description>
             </Card.Header>
             <Card.Content class="grow">
                 <p>
@@ -26,7 +26,7 @@
                 </p>
             </Card.Content>
             <Card.Footer>
-                <ChevronDoubleRightOutline class="w-4 h-4 me-2 dark:text-white" /><Button href="/Left4DeadWiki">Blog Posts</Button>
+            <p>Information about the game</p>
             </Card.Footer>
         </Card.Root>
     </div>
@@ -57,7 +57,7 @@
                 </p>
             </Card.Content>
             <Card.Footer>
-                <HomeOutline class="w-4 h-4 me-2" /><Button href="/Left4DeadWiki">Left 4 Dead</Button>
+                <HomeOutline class="w-4 h-4 me-2" /><Button href="/Left4DeadCommands">Left 4 Dead</Button>
                 <ChevronDoubleRightOutline class="w-5 h-5 mx-2 dark:text-white" />Camp
             </Card.Footer>
         </Card.Root>
