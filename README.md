@@ -9,4 +9,6 @@ But, if you want to help me out and figure out on to add videos and photos. You'
 request!
 
 # Running it locally
-To Do
+To run this wiki off of your local network, I have provided a bat script for Windows users. this basically installs all packages used and runs after its done.
+
+To start, run the `startserver.bat` file in your terminal of choice
