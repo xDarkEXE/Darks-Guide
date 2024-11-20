@@ -2,7 +2,7 @@
     import * as Card from "$lib/components/ui/card";
 
     import { HomeOutline, ChevronDoubleRightOutline } from "flowbite-svelte-icons";
-    import { Button, GradientButton } from "flowbite-svelte"
+    import { Button } from "flowbite-svelte"
 </script>
 
 <section class="flex items-center justify-center h-screen">
@@ -26,7 +26,7 @@
                 </p>
             </Card.Content>
             <Card.Footer>
-            <p>Information about the game</p>
+                <ChevronDoubleRightOutline class="w-5 h-5 mx-2 dark:text-white" />Information about the game
             </Card.Footer>
         </Card.Root>
     </div>
@@ -48,12 +48,19 @@
                     <br>
                     <br>
                     Note that the key used to access the developer console may be different on non-U.S. keyboard layouts;
-                    for example, a standard UK keyboard layout uses the tilde key (left of the "1" key and below Escape)
+                    for example, a standard UK keyboard layout uses the tilde key (left of the "1" key and below Escape)<br>
+                    Here is another <a class="text-green-700" href="/Left4DeadCommands/Workaround">workaround for non-U.S. keyboard layouts</a>
                     <br>
                     <br>
                     You may edit the config file within your game directory directly. Located under:<br>
                     (Left 4 Dead Installation Directory> -> left4dead -> cfg -> config.cfg)<br>
                     Just open the file with a text-editor of your choice and adjust it to your needs.
+                    <br>
+                    <br>
+                    <b class="text-2xl">Contents</b>
+                    <br>
+                    <a class="text-green-700" href="/Left4DeadCommands/Cheats">1. Cheats</a><br>
+                    <a class="text-green-700" href="/Left4DeadCommands/Cheats/CheatHelp">2. Annotated list of commands</a>
                 </p>
             </Card.Content>
             <Card.Footer>
